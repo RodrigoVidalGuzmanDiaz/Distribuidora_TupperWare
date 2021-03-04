@@ -2,28 +2,28 @@
 
 El programa ha sido creado por la empresa Distribuidora_TupperWare, en el cual se mostraran los datos necesarios para poder entender el programa
 
--	Costo por unidad del producto
+1.	Costo por unidad del producto
 
--	Cantidad de producto solicitado 
+2.	Cantidad de producto solicitado 
 
--	Total del costo a pagar por la cantidad del producto 
+3.	Total del costo a pagar por la cantidad del producto 
 
--	Precio de venta hacia el público por unidad 
+4.	Precio de venta hacia el público por unidad 
 
--	IVA
+5.	IVA
 
--	Total de IVA
+6.	Total de IVA
 
 Ahora se pondrá el almacenamiento de datos, pero esta vez de ventas hacia al público en general y calcular:
 
--	Cantidad de unidades a vender 
+7.	Cantidad de unidades a vender 
 
--	Total a cobrar sin descuento
+8.	Total a cobrar sin descuento
 
--	Total a cobrar con descuento
+9.	Total a cobrar con descuento
 
--	Total del IVA por el cobro final
+10.	Total del IVA por el cobro final
 
--	Mostrar el tipo de descuento que se adquirió al comprador con su resultado final
+11.	Mostrar el tipo de descuento que se adquirió al comprador con su resultado final
 
--	Las ganancias de la empresa al vender los productos
+12.	Las ganancias de la empresa al vender los productos

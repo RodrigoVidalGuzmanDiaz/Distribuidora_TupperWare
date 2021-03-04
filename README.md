@@ -16,14 +16,16 @@ El programa ha sido creado por la empresa Distribuidora_TupperWare, en el cual s
 
 Ahora se pondrá el almacenamiento de datos, pero esta vez de ventas hacia al público en general y calcular:
 
-7.	Cantidad de unidades a vender 
+1.	Cantidad de unidades a vender
 
-8.	Total a cobrar sin descuento
+2.	Total a cobrar sin descuento
 
-9.	Total a cobrar con descuento
+3.	Total a cobrar con descuento
+	
+4.	Total del IVA por el cobro final
+	
+5.	Mostrar el tipo de descuento que se adquirió al comprador con su resultado final
 
-10.	Total del IVA por el cobro final
+6.	Las ganancias de la empresa al vender los productos
 
-11.	Mostrar el tipo de descuento que se adquirió al comprador con su resultado final
 
-12.	Las ganancias de la empresa al vender los productos
